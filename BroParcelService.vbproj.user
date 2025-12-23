@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="About_Us.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Approval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Booking_List.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Finance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin_Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main_Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Payment_Success.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider-Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Approval.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Parcel_History.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Parcel_Update.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rider_Selection_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreem3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreen2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Booking_Form.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_OnlineBanking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Page.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Profile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_QRPayment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Registration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Track_Parcel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Upload_Payment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
